@@ -3,3 +3,7 @@
 
 # ignore *.odt version of the manual (keep PDF only)
 *.odt
+
+# macOS
+.DS_Store
+._*
